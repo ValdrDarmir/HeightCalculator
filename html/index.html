@@ -8,14 +8,16 @@
   </head>
   <body>
     <header>
-      <h1>Height Calculator</h1>
+      <h1>Height Calculator Tool</h1>
     </header>
     <main>
       <div>
-        <label for="Height">Enter your Height in cm:</label>
-        <input type="number" placeholder="Your Height" />
+        <label for="Height">Enter your height in cm:</label>
+        <input type="number" min="0" max="230" placeholder="Your Height" />
       </div>
+      <p class="height">Your Height is $Height cm!</p>
     </main>
     <script type="module" src="../js/calculator.js"></script>
   </body>
 </html>
+
