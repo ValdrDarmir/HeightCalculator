@@ -34,4 +34,4 @@ init();
 ```
  
  ##Preview of the Tool
-![Height_Calculator_Tool](https://github.com/ValdrDarmir/HeightCalculator/blob/main/pictures/Height_calc.PNG)
+![Height_Calculator_Tool](https://github.com/ValdrDarmir/HeightCalculator/blob/main/pictures/Height_cal.PNG)
