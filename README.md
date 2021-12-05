@@ -1,7 +1,7 @@
 # HeightCalculator
 This simple tool helps you to calculate your height. With just a simple numeric imput, you can see how tall you are!
 ## Requirements
-* Visual Studio Code (VSC)
+* Visual Studio Code (VSC) or another texteditor
 * Browser (Firefox recommended)
 * Server (if you want to use the Tool)
 ## Installation
