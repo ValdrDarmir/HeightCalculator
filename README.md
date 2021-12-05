@@ -8,3 +8,5 @@
 2. unzip file
 3. open in VSC 
 4. Have Fun
+ 
+![Height_Calculator_Tool](Height_calc.png)
