@@ -1,10 +1,15 @@
 function init() {
-  console.log("T");
-  var inputV = document.querySelector("input");
-  inputV.addEventListener("keyup", function (event) {
+  var input = document.querySelector("input"),
+    outputField = document.querySelector(".height"),
+    output;
+  input.addEventListener("keyup", function (event) {
     if (event.key === "Enter") {
-      console.log(inputV.value);
-      alert("Your are " + inputV.value + "cm tall!");
+      if (input.value > 0 && input.value < 231) {
+        output = outputField.innerHTML.replace("$Height", input.value);
+        outputField.innerHTML = output;
+        outputField.style.visibility = "visible";
+        input.disabled = true;
+      }
     }
   });
 }
