@@ -1,5 +1,5 @@
 header {
-  background-color: rgba(167, 15, 33, 0.9);
+  background-color: #96c0b7;
   text-align: center;
   font-size: 150%;
 }
@@ -15,9 +15,17 @@ label {
   font-weight: bold;
 }
 body {
-  background-color: silver;
+  background-color: #d4dfc7;
   text-align: center;
+  margin: 0;
+  padding: 0;
 }
 input {
   font-size: 125%;
+}
+.height {
+  visibility: hidden;
+  font-size: 400%;
+  margin-top: 0;
+  padding-top: 1em;
 }
