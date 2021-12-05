@@ -33,5 +33,5 @@ function init() {
 init();
 ```
  
- ##Preview of the Tool
+ ## Preview of the Tool
 ![Height_Calculator_Tool](https://github.com/ValdrDarmir/HeightCalculator/blob/main/pictures/Height_cal.PNG)
