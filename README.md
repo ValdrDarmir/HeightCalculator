@@ -9,4 +9,4 @@
 3. open in VSC 
 4. Have Fun
  
-![Height_Calculator_Tool](./pictures/Height_calc.png)
+![Height_Calculator_Tool](https://github.com/ValdrDarmir/HeightCalculator/blob/main/pictures/Height_calc.PNG)
